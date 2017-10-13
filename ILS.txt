@@ -1,0 +1,3 @@
+Integrated Logging Service
+
+ILS is used to read logs from server.
